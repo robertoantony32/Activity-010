@@ -1,7 +1,7 @@
 from Entities.Enemies.Enemy import Enemy
 
-class Asteroids(Enemy):
+class Ufo(Enemy):
     super().__init__()
     
-    def duplicate():
+    def shoot():
         pass
